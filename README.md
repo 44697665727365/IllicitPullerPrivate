@@ -1,6 +1,6 @@
 All COD🔫 and GTAV💰 Grabber, Spoofer and RTM.
 
-I previously sold 2 versions of this that Both SkullMods and I created (IllicitPuller (was origionally private)) ExceptionPuller then Yasha Grabber but I’m releasing the source (with GUI Removed) since PS3 is dead now.
+I previously sold 2 versions of this from 2017-2020 that Both SkullMods and I created (IllicitPuller (was origionally private)) ExceptionPuller then Yasha Grabber but I’m releasing the source (with GUI Removed) since PS3 is dead now.
 
 Contact me for help/questions/feature requests.
 

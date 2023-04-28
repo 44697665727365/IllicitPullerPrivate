@@ -9,3 +9,5 @@ Contact me for help/questions/feature requests.
 🎥 PS3 Channel: https://youtube.com/@diversecfw4019 🎥 Gaming Channel: https://youtube.com/@DiverseYuh 💬 Discord: https://discord.gg/5ST49p2cuF
 
 Yasha Grabber showcase: 🎥 https://youtu.be/VoKFvTveW0g, https://youtu.be/oDsPkQAcyAc
+
+(I cannot find my source to Yasha, only difference is GUI and 32 Char name for BO2, PM me on discord for the code to 32 Char Name)
